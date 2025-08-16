@@ -2,4 +2,9 @@ probando clonar archivo
 Probando cambios para push
 arreglo para repositorio
 hola mundo
+<<<<<<< HEAD
 probando commit en main
+=======
+probando commit en rama
+
+>>>>>>> nueva_funcionalidad
